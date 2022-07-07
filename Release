@@ -1,8 +1,8 @@
-Origin: Kanji // 漢字
-Label: Kanji // 漢字
+Origin: SnapchatTweaks2 Clone Repo
+Label: SnapchatTweaks2 Clone Repo
 Suite: stable
 Version: 1.0
 Architectures: iphoneos-arm
 Codename: cydia-ios
 Components: main
-Description: I like to mess around with code.
+Description: Cloned temporary repo
